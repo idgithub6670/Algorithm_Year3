@@ -1,0 +1,3 @@
+Qs,Qc,2h
+3s,3c,10s,10h,7s
+5s,5d,5c,Ah,Ad
